@@ -246,6 +246,10 @@ p{
     .navbar-toggle{
       display: none;
     }
+	  
+	.row a{
+      display: none;
+    }
   }
   
   /* Mobile view */
